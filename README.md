@@ -12,6 +12,9 @@
 - [egui_05_checkboxes_and_radios](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_05_checkboxes_and_radios)
 - [egui_06_horizontal_layout](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_06_horizontal_layout)
 - [egui_07_nested_layouts](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_07_nested_layouts)
+- [egui_08_grid_layout at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_08_grid_layout)
+- [egui_09_side_panel at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_09_side_panel)
+- [egui_10_scroll_area at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_10_scroll_area)
 
 
 ## Additionals Resources
