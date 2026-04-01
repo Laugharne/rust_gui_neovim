@@ -15,6 +15,12 @@
 - [egui_08_grid_layout at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_08_grid_layout)
 - [egui_09_side_panel at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_09_side_panel)
 - [egui_10_scroll_area at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_10_scroll_area)
+- [egui_11_recipe_viewer at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_11_recipe_viewer)
+- [egui_12_color_picker at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_12_color_picker)
+- [egui_13_combobox at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_13_combobox)
+- [egui_14_sliders at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_14_sliders)
+- [egui_15_progress_bar at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_15_progress_bar)
+- [egui_16_text_styles at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_16_text_styles)
 
 
 ## Additionals Resources
