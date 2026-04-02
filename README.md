@@ -21,6 +21,13 @@
 - [egui_14_sliders at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_14_sliders)
 - [egui_15_progress_bar at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_15_progress_bar)
 - [egui_16_text_styles at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_16_text_styles)
+- [egui_17_images at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_17_images)
+- [egui_18_tooltips at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_18_tooltips)
+- [egui_19_custom_painting at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_19_custom_painting)
+- [egui_20_drag_values at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_20_drag_values)
+- [egui_21_keyboard_mouse_input at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_21_keyboard_mouse_input)
+- [egui_22_windows_popups at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_22_windows_popups)
+- [egui_23_persistence at main](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_23_persistence)
 
 
 ## Additionals Resources
