@@ -1,0 +1,9 @@
+[package]
+name = "egui_17_images"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.31"
+egui_extras = { version = "0.31", features = ["all_loaders"] }
+image = { version = "0.25", default-features = false, features = ["png"] }
