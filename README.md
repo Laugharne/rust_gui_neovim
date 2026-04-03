@@ -28,6 +28,13 @@
 - [egui_21_keyboard_mouse_input](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_21_keyboard_mouse_input)
 - [egui_22_windows_popups](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_22_windows_popups)
 - [egui_23_persistence](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_23_persistence)
+- [egui_24_modules_project_structure](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_24_modules_project_structure)
+- [egui_25_custom_widgets](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_25_custom_widgets)
+- [egui_26_theming_styles](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_26_theming_styles)
+- [egui_27_playlist_manager](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_27_playlist_manager)
+- [egui_28_calculator](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_28_calculator)
+- [egui_29_habit_tracker](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_29_habit_tracker)
+- [egui_30_drawing_app](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_30_drawing_app)
 
 
 ## Additionals Resources
