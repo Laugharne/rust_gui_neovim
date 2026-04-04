@@ -1,10 +1,16 @@
 # Rust GUI with EGUI
 
-## YouTube tutorial about egui Rust framework
+Ceci est une ressource pédagogique complète et en **français** conçue pour accompagner une série de **[tutoriels vidéo](https://www.youtube.com/playlist?list=PLOeWRYj1QznUX08O4K1Ibh1YM9G_ew6iM) (36 épisodes)** sur le développement d'applications graphiques en **Rust**.
+
+C'est une base de code idéale pour quiconque cherche des exemples clairs, modulaires et bien structurés pour démarrer avec **eframe** et **egui**
+
+⚠️ Tous ces exemples utilisent **egui v0.31**, des versions plus récentes existent déjà au moment ou je tape ces lignes...
+
+## Tutoriel YouTube sur le framework Rust egui
 - [Rust GUI with Neowin - YouTube](https://www.youtube.com/playlist?list=PLOeWRYj1QznUX08O4K1Ibh1YM9G_ew6iM)
 - [GoCelesteAI / Repositories · GitHub](https://github.com/GoCelesteAI?tab=repositories&q=EGUI&type&language&sort)
 
-## Chapters
+## Chapitres
 - [egui_01_my_first_window](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_01_my_first_window)
 - [egui_02_labels_and_headings](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_02_labels_and_headings)
 - [egui_03_buttons_and_state](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_03_buttons_and_state)
@@ -35,9 +41,10 @@
 - [egui_28_calculator](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_28_calculator)
 - [egui_29_habit_tracker](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_29_habit_tracker)
 - [egui_30_drawing_app](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_30_drawing_app)
+- [31_settings_dashboard](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_31_settings_dashboard)
+- [egui_32_text_editor](https://github.com/Laugharne/rust_gui_neovim/tree/main/egui_32_text_editor)
 
-
-## Additionals Resources
+## Ressources supplémentaires
 - [egui – An immediate mode GUI written in Rust](https://www.egui.rs/)
 - [GitHub - emilk/egui: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native · GitHub](https://github.com/emilk/egui)
 - [egui - Rust](https://docs.rs/egui/latest/egui/)
